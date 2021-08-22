@@ -1,0 +1,25 @@
+ main {background-color: rgb(218, 218, 6);
+    color:mediumblue;}
+p {margin: 25px;
+    text-align: justify;
+    text-indent: 3%;}
+a {text-decoration: none;
+    font-size: 14px;}
+h2 {text-shadow: 3px 5px lightblue;}
+header a {text-decoration:none;
+    font-style: italic; color:darkblue; background-color: yellow; padding: 3px ; border: 3px ridge lightblue; border-radius: 8px;}
+footer {background-color: rgb(29, 236, 22); color:rgb(90, 19, 206); font-size: small;}
+.top {display:inline;}
+.weg {padding: 10px;
+      max-width: 340px;}
+.foto {float:left; width: 50%; padding:10px;}
+.pagina {width: 100%;}
+.w3-ul li {border-left: 15px;}
+#kaartweg {width: 100%;}
+#zicht {width: 100%;
+}
+a:hover {color:yellow;
+            background-color:darkblue;
+        }
+a:visited {color:black;
+}
